@@ -27,10 +27,10 @@
 - `BOOKIDS` | AIVLE SCHOOL 우리아이를 위한 독서 도우미 프로젝트 (https://github.com/dodongmin/Hackathon)
 <br>
 
-- `작업자 삭제 및 작업자 스켈레톤화` | 울산대학교 졸업작품 Yolov4, Openpose 이용한 영상 속 작업자 삭제 및 작업자 스켈레톤화 프로젝트 (https://github.com/stg0123/assembly_project)
+- `작업자 삭제 및 작업자 스켈레톤화` | 울산대학교 졸업작품 Yolov4, Openpose 이용한 영상 속 작업자 삭제 및 작업자 스켈레톤화 프로젝트 (https://github.com/dodongmin/Graduation_skeleton)
 <br>
 
-- `자동차 탐지 AI모델` | USG공유대학 졸업작품 Yolov8 활용한 자동차 탐지 AI모델 개발 프로젝트 (https://github.com/stg0123/kakao_chatbot)
+- `자동차 탐지 AI모델` | USG공유대학 졸업작품 Yolov8 활용한 자동차 탐지 AI모델 개발 프로젝트 (https://github.com/dodongmin/Graduation_Yolo)
 
 
 ## 🎉수상경력
