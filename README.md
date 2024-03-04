@@ -21,10 +21,10 @@
 
 ## ⚙프로젝트 경험
 
-- `위드` | BDIA 해커톤 CLOVA X 활용한 실시간 회의 협업 도구 개발 프로젝트(https://github.com/dodongmin/AivleSchool_Bookids)
+- `위드` | BDIA 해커톤 CLOVA X 활용한 실시간 회의 협업 도구 개발 프로젝트(https://github.com/dodongmin/Hackathon)
 <br>
 
-- `BOOKIDS` | AIVLE SCHOOL 우리아이를 위한 독서 도우미 프로젝트 (https://github.com/dodongmin/Hackathon)
+- `BOOKIDS` | AIVLE SCHOOL 우리아이를 위한 독서 도우미 프로젝트 (https://github.com/dodongmin/AivleSchool_Bookids)
 <br>
 
 - `작업자 삭제 및 작업자 스켈레톤화` | 울산대학교 졸업작품 Yolov4, Openpose 이용한 영상 속 작업자 삭제 및 작업자 스켈레톤화 프로젝트 (https://github.com/dodongmin/Graduation_skeleton)
