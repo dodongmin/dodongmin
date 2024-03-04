@@ -46,7 +46,7 @@
 
 
 ## 📫기술스택
-- `백엔드` | python(Django, flask), Node.js(express), scala, Redis, MySQL, PostgreSQL, mongodb
+- `백엔드` | python(Django, flask), MySQL, SQLite
 - `DevOps` | AWS, GCP, Nginx, Linux
 - `프론트엔드` | HTML, CSS, JS, React
 - `협업,의사소통` | Git, Notion, Excel, PowerPoint
