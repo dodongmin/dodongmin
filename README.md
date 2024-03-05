@@ -1,6 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodongmin&count_bg=%2318DAFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 🍀안녕하세요 AI 개발자 정동민입니다🍀
+## 어제보다 성장하는 사람이 되겠습니다.
 - (전) KT AIVLE SCHOOL AI 개발자 4기
 - (전) 울산대학교 IT융합전공, USG공유대학 스마트제조ICT전공
 
